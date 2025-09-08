@@ -1,0 +1,18 @@
+
+# IDE and editor specific files
+.idea/
+.vscode/
+
+# Build directory from CLion/CMake
+cmake-build-debug/
+
+# Compiled files and executables
+*.exe
+*.o
+*.out
+CMakeLists.txt
+main.cpp
+
+# macOS specific files
+.DS_Store
+
